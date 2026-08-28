@@ -5,5 +5,5 @@
 [build.environment]
   NEXT_VERSION = "15.5.3"
 
-[plugins]
+[[plugins]]
   package = "@netlify/plugin-nextjs"
