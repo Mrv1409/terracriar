@@ -1,6 +1,0 @@
-[build]
-  command = "npm install next@15.5.3 --save-exact && npm run build"
-  publish = ".next"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
